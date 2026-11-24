@@ -1,0 +1,41 @@
+FREE APPS LICENSE, version 1.0 (24 November 2026)
+
+These terms cover every program published at https://moskva1988.github.io/ (the "Programs").
+"The Author" is Safe Sea Solutions, the author and owner of the Programs.
+
+1. Free for individuals
+A private person may download, install and use the Programs free of charge for their own
+needs, on any computer they are allowed to use, including a computer at work, as long as
+this is their own choice and no organisation provides, requires or pays for it.
+
+2. Organisations need a paid license
+A company, shipowner, ship manager, crewing agency, institution or any other organisation
+may not install, distribute or provide the Programs to its staff, vessels, offices or
+clients, require their use, or make them part of its work, without a separate written
+commercial license from the Author.
+
+3. Passing the Programs on
+You may give an unchanged copy of a Program to other private persons free of charge.
+You may not sell or rent the Programs, include them in other products, change them,
+take them apart, or remove this license or the Author's notices.
+
+4. Use without a license
+Use by an organisation without a commercial license is an infringement of the Author's
+rights. The Author reserves the right to claim the license fee for the whole period and
+for every computer the Program was used on, as well as damages and legal costs, to the
+extent the law allows.
+
+5. Support is voluntary
+Donations are gifts. They are not a license fee and give no additional rights.
+
+6. No warranty
+The Programs are provided "as is", without warranties of any kind. To the extent the law
+allows, the Author is not liable for any loss or damage arising from their use, including
+loss of data or of access to accounts.
+
+7. Versions of these terms
+Each version of a Program is governed by the terms published with it. Later versions may
+come with different terms.
+
+Commercial licenses and questions: inquiries@safeseasolutions.com
+The current terms and contact: https://moskva1988.github.io/license/
